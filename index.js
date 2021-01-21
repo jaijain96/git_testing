@@ -109,7 +109,7 @@ function calculateWinner(squares) {
             return squares[a];
         }
     }
-    return null;
+    return null
 }
 
 class Game extends React.Component {
