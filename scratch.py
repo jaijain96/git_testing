@@ -6,6 +6,12 @@ def add_3(x, y, z):
     return x + y + z
 
 
+def add_4(x, y, z, a):
+    return x + y + z + a
+
+
 print(add_2(1, 2))
 
 print(add_3(1, 2, 3))
+
+print(add_4(1, 2, 3, 4))
