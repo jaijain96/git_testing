@@ -1,3 +1,7 @@
+def add_1(x):
+    return x + 1
+
+
 def add_2(x, y):
     return x + y
 
@@ -13,6 +17,8 @@ def add_4(x, y, z, a):
 def add_5(x, y, z, a, b):
     return x + y + z + a + b
 
+
+print(add_1(1))
 
 print(add_2(1, 2))
 
